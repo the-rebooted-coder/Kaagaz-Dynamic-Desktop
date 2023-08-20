@@ -1,0 +1,16 @@
+D:\Users\NGC\source\repos\Dynamic Desktop\bin\Debug\net6.0-windows\Dynamic Desktop.exe
+D:\Users\NGC\source\repos\Dynamic Desktop\bin\Debug\net6.0-windows\Dynamic Desktop.deps.json
+D:\Users\NGC\source\repos\Dynamic Desktop\bin\Debug\net6.0-windows\Dynamic Desktop.runtimeconfig.json
+D:\Users\NGC\source\repos\Dynamic Desktop\bin\Debug\net6.0-windows\Dynamic Desktop.dll
+D:\Users\NGC\source\repos\Dynamic Desktop\bin\Debug\net6.0-windows\Dynamic Desktop.pdb
+D:\Users\NGC\source\repos\Dynamic Desktop\obj\Debug\net6.0-windows\Dynamic_Desktop.Form1.resources
+D:\Users\NGC\source\repos\Dynamic Desktop\obj\Debug\net6.0-windows\Dynamic Desktop.csproj.GenerateResource.cache
+D:\Users\NGC\source\repos\Dynamic Desktop\obj\Debug\net6.0-windows\Dynamic Desktop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NGC\source\repos\Dynamic Desktop\obj\Debug\net6.0-windows\Dynamic Desktop.AssemblyInfoInputs.cache
+D:\Users\NGC\source\repos\Dynamic Desktop\obj\Debug\net6.0-windows\Dynamic Desktop.AssemblyInfo.cs
+D:\Users\NGC\source\repos\Dynamic Desktop\obj\Debug\net6.0-windows\Dynamic Desktop.csproj.CoreCompileInputs.cache
+D:\Users\NGC\source\repos\Dynamic Desktop\obj\Debug\net6.0-windows\Dynamic Desktop.dll
+D:\Users\NGC\source\repos\Dynamic Desktop\obj\Debug\net6.0-windows\refint\Dynamic Desktop.dll
+D:\Users\NGC\source\repos\Dynamic Desktop\obj\Debug\net6.0-windows\Dynamic Desktop.pdb
+D:\Users\NGC\source\repos\Dynamic Desktop\obj\Debug\net6.0-windows\Dynamic Desktop.genruntimeconfig.cache
+D:\Users\NGC\source\repos\Dynamic Desktop\obj\Debug\net6.0-windows\ref\Dynamic Desktop.dll
